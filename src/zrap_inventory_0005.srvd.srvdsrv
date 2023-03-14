@@ -1,0 +1,4 @@
+define service ZRAP_Inventory_0005 {
+  expose ZC_RAP_Inventory_0005 as Inventory;
+  expose ZCE_RAP_PRODUCTS_0005 as Products;
+}
